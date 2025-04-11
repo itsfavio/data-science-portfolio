@@ -1,0 +1,14 @@
+---
+:id: 294069864
+:submitters:
+- :name: Michael Petersen
+  :email: m1petersen@ucsd.edu
+- :name: Favio Espejo
+  :email: fespejog@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-12-03 06:26:08.086790000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-12-02 22:26:08.086790000 Z
+:status: processed
+:score: 61.3333
